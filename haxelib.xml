@@ -1,0 +1,10 @@
+<project name="pimple.hx" url="https://github.com/Mparaiso/Pimple.hx" license="GLP">
+    <user name="M.Paraiso"/>
+    <tag v="DI"/>
+    <tag v="haxe 2.10"/>
+    <tag v="dependency injection"/>
+    <description>
+      Pimple.hx is a small Dependency Injection Container for Haxe 2.10
+    </description>
+    <version name="0.0.1">first development release</version>
+</project>
